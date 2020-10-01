@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    font-family: Mogra;
+    color: rgb(255, 123, 0);
+    background-color:yellow;
+    border-radius: 40%;
+}
+#p1{
+    text-align: center;
+    font-family: Mogra;
+    font-size: 150%;
+}
+#t1{
+    font-family: Mogra;
+    font-size: 30px;
+}
+#t2{
+    float: right;
+    font-family: Mogra;
+    font-size: 28px;
+    background-color: yellow;
+
+}
+html{
+    background-image: url('Images/csk.png');    
+    center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 95%;
+  
+
+}
+
