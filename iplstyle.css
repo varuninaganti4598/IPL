@@ -1,0 +1,82 @@
+html{
+    background-image: url('Images/ipllogo.jpg');    
+    center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 140%;
+  background-repeat: no-repeat;
+    
+
+}
+body{
+  background-color: rgb(28, 28, 218);
+    
+   
+}
+header{
+    text-align: center;
+    font-family: Mogra;
+    color: red;
+    background-color: cornflowerblue;
+    border-radius: 40%;
+}
+#p1{
+    border: tomato;
+    text-align: center;
+    font-family: Mogra;
+    font-size: 150%;
+}
+.para{
+    text-align: center;
+    font-family: Mogra;
+    font-size: 150%;
+
+}
+.teams{
+    
+    font-family: Mogra;
+    font-size: 150%;
+    
+    
+}
+#p2{
+    font-family: Mogra;
+    font-size: 150%;
+
+}
+#cup{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: skyblue;
+    border: 1px solid #555;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+  border-bottom: 1px solid #555;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  li:last-child {
+    border-bottom: none;
+  }

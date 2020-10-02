@@ -2,7 +2,7 @@ header{
     text-align: center;
     font-family: Mogra;
     color: rgb(3, 3, 3);
-    background-color:rgb(255, 136, 0);
+    background-color: purple;
     
     text-decoration: underline;
     
@@ -23,12 +23,12 @@ header{
     
     font-family: Mogra;
     font-size: 25px;
-    background-color: yellow;
+    background-color: rgb(190, 27, 190);
     border: thin;
 
 }
 body{
-background-color: yellow;
+background-color: rgb(190, 27, 190);
 
 }
 .topright {
@@ -38,7 +38,7 @@ background-color: yellow;
     font-size: 18px;
   }
 #logo{
-    width: 50%;
+    width: 40%;
     padding-top: 10%;
     
 }
